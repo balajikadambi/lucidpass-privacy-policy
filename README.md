@@ -47,7 +47,8 @@ To exercise any of these rights, please contact us at the details provided below
 
 ### 8. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our website and updating the "Effective Date". You are advised to review this policy periodically for any changes.
-9. Contact Us
+
+### 9. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 By Email: contact.bkadambi@gmail.com
 
